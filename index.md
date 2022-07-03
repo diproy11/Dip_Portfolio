@@ -4,38 +4,19 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Examining the effect of environmental factors and weather on demand of Bike rentals](https://github.com/Diptechis/Linear-Regression/blob/main/Linear_Project%20(1).ipynb)
+[Portuguese Bank Marketing Analysis](https://github.com/Diptechis/Portuguese_Bank_Marketing_Analysis)
 
-<img src="images/seoul-bikes.jpeg?raw=true"/>
+<img src="images/BI.jpeg?raw=true"/>
 
-**Skills used:** Python, Pandas, SKlearn, Matplotlib
+**Skills used:** Python, Keras, Tensorflow
 
-**Project Objective:** Predicting Bike rental demand on basis of weather and seasonal factors in advance to take appropiate measures which finally will result in bike utilization.
+**Project Objective:** In this project I worked with real world data which is related with direct marketing campaigns (phone calls) of a Portuguese banking institution. The classification goal is to predict if the client will subscribe a term deposit.
 
-**Quantifiable result:** We could predict the Bike rental demand resulting in [**61%** accuracy](https://github.com/Diptechis/Diproy/blob/main/Linear_Project.ipynb).
+**Quantifiable result:** We could Classify whether client has subscribed the term deposit or not [**85%** Accuracy Using Logistic Regression Algo.](https://github.com/Diptechis/Portuguese_Bank_Marketing_Analysis).
 
-- Used Random Forest Regressor to predict the number of bikes rented in the city of Seoul
-- The data had quite a few categorical variables which were encoded for use in the model
-- Encoded categorical variables to numeric using Sklearn due to the presence of many string columns
-- Cross Validation for validating the training data and model fit.
-- Fit a Random Forest Regressor with high prediction accuracy through iteration
-
-***
-
-<!-- [Diagnosis of breast cancer using a logistic classifier](https://github.com/suvo-gh/Orthopedic-Patients-Classification) -->
-
-<!-- <img src="images/breast-cancer.jpeg?raw=true"/>
-
-**Skills used:** Python, Pandas, SKlearn, Matplotlib
-
-**Project Objective:** Identification of the type of Breast Cancer for quicker diagnosis. This assists professionals in the medical field to take appropiate measures to accurately diagnose, treat and save lives.  -->
-
-**Quantifiable result:** We could Classify the type of tumor resulting in [**86%** accuracy using K-means algorithm](https://github.com/Diptechis/Logistic_Regression/blob/main/Logistic_Project.ipynb).
-
-- Used logistic regression to identify a tumour as malignant or benign based on various attributes
-- Classified tumors as benign or malignant by studying patterns in measured attributes of those tumors
-- Used Logistic regression classifier & optimized the accuracy by using the ROC curve
-- Explored a machine learning approach to medical diagnosis
+- Added multiple convolution and pooling layers
+- Training model on basis of Mnist data
+- Data Source: MNIST
 
 ***
 
@@ -53,3 +34,36 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - Training model on basis of given data
 - Fitting the CNN to see if the provided image is dog or cat
 - Data Source: https://drive.google.com/drive/folders/15SG-chdqEwcrNAY39RTZJjvl-UwiZo_e?usp=sharing
+
+***
+
+[Hand-writing Recognition](https://github.com/Diptechis/HandWritten_Digit_CNN)
+
+<img src="images/MD.jpeg?raw=true"/>
+
+**Skills used:** Python, Keras, Tensorflow
+
+**Project Objective:** Mnist is a dataset with 70,000 of handwritten digits. Here I have predicted the mnist digits by using Convolution Neural Network.
+
+**Quantifiable result:** We could train the Convolutional Neural Network to attain a accuracy of [**99%** using **10** epochs](https://github.com/Diptechis/HandWritten_Digit_CNN).
+
+- Added multiple convolution and pooling layers
+- Training model on basis of Mnist data
+- Data Source: MNIST
+
+***
+
+<!-- [Hand-writing recognition](https://github.com/Diptechis/HandWritten_Digit_CNN)
+
+<img src="images/MD.jpeg?raw=true"/>
+
+**Skills used:** Python, Keras, Tensorflow
+
+**Project Objective:** Mnist is a dataset with 70,000 of handwritten digits. Here I have predicted the mnist digits by using Convolution Neural Network.
+
+**Quantifiable result:** We could train the Convolutional Neural Network to attain a accuracy of [**99%** using **10** epochs](https://github.com/Diptechis/HandWritten_Digit_CNN).
+
+- Added multiple convolution and pooling layers
+- Training model on basis of Mnist data
+- Data Source: MNIST -->
+
