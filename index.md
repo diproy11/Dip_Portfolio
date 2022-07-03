@@ -248,7 +248,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 [Walmart Weekly Sales](https://github.com/Diptechis/Walmart_Weekly_Sales)
 
-<img src="images/WMS.jpeg?raw=true"/>
+<img src="images/WM.jpeg?raw=true"/>
 
 **Skills used:** Python, Pandas, SKlearn, Linear Regression, Decision Tree
 
