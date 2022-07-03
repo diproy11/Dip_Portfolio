@@ -1,6 +1,8 @@
-Website Address: [Live Example](https://diptechis.github.io/Dip_Portfolio/)
+Website Address: [Click Here](https://diptechis.github.io/Dip_Portfolio/)
 
-- Data Science students' Portfolio Template
+- Hey This is Dip, Here is a overview of my portfolio.
 
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/89073371/148211635-abdb3cd5-1099-46fc-beb7-d16008cf9704.gif)
+![ezgif com-gif-maker](https://github.com/Diptechis/Dip_Portfolio/blob/master/New%20SR.gif)
+
+- Thank You For Visit.
